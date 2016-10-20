@@ -1,0 +1,5 @@
+name: firefirestyle.textbuilder
+description: html location lib
+version: 0.0.1
+dev_dependencies:
+  test: any
